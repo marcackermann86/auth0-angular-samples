@@ -4,7 +4,7 @@
   "authorizationParams": {
     "audience": "https://dev-j422nkbq4prdo2wz.us.auth0.com/api/v2/"
   },
-  "apiUri": "http://localhost:3001",
-  "appUri": "http://localhost:4200",
+  "apiUri": "https://dev-j422nkbq4prdo2wz.us.auth0.com/api/v2/",
+  "appUri": "https://auth0-angular-samples-gold.vercel.app/",
   "errorPath": "/error"
 }
